@@ -35,3 +35,14 @@
 	<GL/glu.h>
 	<stdlib.h>
 
+1683789946 source:c:\users\administrator\desktop\2023graphicsb\final_project\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1683789946 c:\users\administrator\desktop\2023graphicsb\final_project\glm.h
+	<GL/glut.h>
+
